@@ -1,5 +1,5 @@
 👋 Hi, I’m Sergi González, currently working as a Frontend Developer, creating web GIS applications.
-- 💻 I'm currently working on: DOTGIS
+- 💻 I'm currently working on: Minsait
 - 🌱 I’m currently learning: TypeScript
 - 💭 You can ask me about: web GIS development
 - 📫 How to reach me: sergigr91@gmail.com
