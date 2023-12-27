@@ -2,7 +2,6 @@
 - 💻 I'm currently working on: Minsait
 - 🌱 I’m currently learning: TypeScript
 - 💭 You can ask me about: web GIS development
-- 📫 How to reach me: sergigr91@gmail.com
 
 <!---
 GonzalezSergi/GonzalezSergi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
